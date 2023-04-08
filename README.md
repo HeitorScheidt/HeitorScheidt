@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-" height="180" src="https://github-readme-stats.vercel.app/api?username=HeitorScheidt&show_icons=true&theme=transparent">
-  <img align="center" alt="Heitor-" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorScheidt&layout=compact">
+  <img align="center" alt="Heitor-" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorScheidt&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
