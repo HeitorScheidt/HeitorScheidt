@@ -37,7 +37,6 @@
 ##
 
 <p><strong>About Me: </strong></p>  
-- 🔭 I’m currently looking for a job working! <br>
-- 🌱 I’m currently learning Kotlin, Android, Ionic
+
 
 </div>
